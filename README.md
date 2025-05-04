@@ -49,11 +49,12 @@ cd etch_a_sketch
 📁 Project Structure
 
 ## 📁 Project Structure
-
+```
 etch_a_sketch/
 ├── index.html    # Main HTML file
 ├── styles.css    # Styles for layout and grid
 └── script.js     # JavaScript logic for interaction
+```
 
 ## 🚧 Future Enhancements:
 

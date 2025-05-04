@@ -64,4 +64,4 @@ etch_a_sketch/
 
 This project is licensed under the [MIT License.](https://github.com/YusufBolden/etch_a_sketch/blob/main/LICENSE)
 
-<p align="center">Made with ❤️ by Yusuf</p> ```
+<p align="center">Made with ❤️ by Yusuf</p>
